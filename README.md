@@ -7,7 +7,7 @@
 :rocket: A CLI tool that detects scripts from package.json and show in a prompt
 
 :up: 
-
+<img src="./assets/preview.jpg">
 
 ## Prerequisites
 
