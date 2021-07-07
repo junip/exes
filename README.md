@@ -2,15 +2,14 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)]() [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
 
+
+ ![made with nodejs](https://img.shields.io/badge/madewith-node.js-green.svg) [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![license](https://img.shields.io/github/license/visionmedia/superagent.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
+
 :star: If you are using this tool or you like it, Star on GitHub — it helps!
 
-<<<<<<< HEAD
 :rocket: A CLI tool that detects scripts from package.json and show in a selective prompt, 
 
 :lipstick: it detect automatically the package manager and execute it accordingly. (i.e yarn or npm run)
-=======
-:rocket: A CLI tool that detects scripts from **package.json** and show in a prompt
->>>>>>> c3766fd53265620638579c774fc3fe95e045b760
 
 :up: 
 <img src="./assets/preview.jpg">
