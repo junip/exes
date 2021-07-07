@@ -4,7 +4,7 @@
 
 :star: If you are using this tool or you like it, Star on GitHub — it helps!
 
-:rocket: A CLI tool that detects scripts from package.json and show in a prompt
+:rocket: A CLI tool that detects scripts from **package.json** and show in a prompt
 
 :up: 
 <img src="./assets/preview.jpg">
