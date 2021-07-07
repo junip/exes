@@ -4,9 +4,13 @@
 
 :star: If you are using this tool or you like it, Star on GitHub — it helps!
 
+<<<<<<< HEAD
 :rocket: A CLI tool that detects scripts from package.json and show in a selective prompt, 
 
 :lipstick: it detect automatically the package manager and execute it accordingly. (i.e yarn or npm run)
+=======
+:rocket: A CLI tool that detects scripts from **package.json** and show in a prompt
+>>>>>>> c3766fd53265620638579c774fc3fe95e045b760
 
 :up: 
 <img src="./assets/preview.jpg">
