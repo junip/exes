@@ -4,11 +4,20 @@
 
 :star: If you are using this tool or you like it, Star on GitHub — it helps!
 
-:rocket: A CLI tool that detects scripts from package.json and show in a prompt
+:rocket: A CLI tool that detects scripts from package.json and show in a selective prompt, 
+
+:lipstick: it detect automatically the package manager and execute it accordingly. (i.e yarn or npm run)
 
 :up: 
 <img src="./assets/preview.jpg">
 
+### Usages
+
+- You need to execute the `exes` **command** in the respective directory
+
+- it takes the available scripts from the **package.json** and show it in a prompt.
+
+- if your executed directory doesnt contains the **package.json** it will return error.
 ## Prerequisites
 
 You are required to have [Node.js](https://nodejs.org/) installed to run the cli tool or after installing [Node.js](https://nodejs.org/) you can make executable and run the excutable to use the tool. [Make executable](#making-executable)
@@ -48,17 +57,6 @@ npm link or sudo npm link
 ```
 
 
-### Usages
-
-- You need to execute the `exes` **command** in the respective directory
-
-- it takes the available scripts from the **package.json** and show it in a prompt.
-
-- if your executed directory doesnt contains the **package.json** it will return error.
-
-
-
-
 ### Contribution
 
 We hope that you will consider contributing to exes. Please read this short overview [Contribution Guidelines](https://github.com/junipdewan/exes/blob/master/CONTRIBUTING.md) for some information about how to get started 
@@ -68,3 +66,5 @@ We hope that you will consider contributing to exes. Please read this short over
 **exes** is available under the **MIT license**. See the [LICENSE](https://github.com/junipdewan/exes/blob/master/LICENSE) file for more info.
 
 Copyright (c) 2019 <junipd2@gmail.com>
+
+:rocket: Happy Coding
