@@ -68,6 +68,5 @@ We hope that you will consider contributing to exes. Please read this short over
 
 **exes** is available under the **MIT license**. See the [LICENSE](https://github.com/junipdewan/exes/blob/master/LICENSE) file for more info.
 
-Copyright (c) 2019 <junipd2@gmail.com>
 
 :rocket: Happy Coding
